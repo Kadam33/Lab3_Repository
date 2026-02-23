@@ -1,6 +1,6 @@
-Hello Professor, I apologize for the major inconvenience. I had to leave Maryland due to Family emergency and have no access to my PC to complete the Lab correctly.
+#Hello Professor, I apologize for the major inconvenience. I had to leave Maryland due to Family emergency and have no access to my PC to complete the Lab correctly.
 
-Here is my code
+#Here is my code
 # Lab3_Repository
 
 # This code will average the score, letter grade, and academic standing
